@@ -30,8 +30,8 @@ domain: askarbabu.github.io
 github_username:  askarbabu
 
 # Build settings
-#theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
+#theme: minimal-mistakes-jekyll
 #remote-theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
